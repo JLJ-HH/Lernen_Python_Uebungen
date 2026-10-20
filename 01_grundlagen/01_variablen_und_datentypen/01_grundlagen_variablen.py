@@ -1,4 +1,4 @@
-# ==============================================================================
+﻿# ==============================================================================
 # Modul 1.1: Grundlagen - Variablen & Werte zuweisen
 # Datei: 01_grundlagen_variablen.py
 # ==============================================================================
@@ -45,6 +45,18 @@ print("=" * 60)
 
 
 # ==============================================================================
+# 💡 WICHTIGER TIPP FUER ANFAENGER:
+# Zeilen, die mit einer Raute (#) beginnen, sind nur "Kommentare" (Erklaerungen).
+# Python ignoriert alles hinter einer Raute vollstaendig!
+#
+# 👉 Wo tippst du deinen Code ein?
+# Schreibe deine Loesung immer in die LEERE ZEILE DARUNTER!
+# Setze vor deinen eigenen Code NIEMALS eine Raute (#),
+# sonst wird deine Loesung von Python nicht ausgefuehrt!
+# ==============================================================================
+
+
+# ==============================================================================
 # [DEINE UEBUNGSAUFGABEN]
 # Ziel: Verinnerliche das Zuweisen von Variablen fuer alle 4 Arten von Werten!
 # Jede Aufgabe folgt dem gleichen Prinzip:
@@ -60,7 +72,7 @@ print("=" * 60)
 # Erstelle eine Variable namens 'stadt' mit dem Namen einer Stadt als String.
 # Gib die Variable danach mit print() aus.
 
-# Hier deinen Code schreiben:
+# 👇 DEIN CODE HIER (in die leere Zeile darunter tippen – OHNE # davor):
 
 
 
@@ -71,7 +83,7 @@ print("-" * 60)
 # Erstelle eine Variable namens 'haustier' mit einem Tier als String (z. B. "Hund").
 # Gib die Variable danach mit print() aus.
 
-# Hier deinen Code schreiben:
+# 👇 DEIN CODE HIER (in die leere Zeile darunter tippen – OHNE # davor):
 
 
 
@@ -82,7 +94,7 @@ print("-" * 60)
 # Erstelle eine Variable namens 'geburtstag_tag' mit einem Tag als ganze Zahl (z. B. 15).
 # Gib die Variable danach mit print() aus.
 
-# Hier deinen Code schreiben:
+# 👇 DEIN CODE HIER (in die leere Zeile darunter tippen – OHNE # davor):
 
 
 
@@ -93,7 +105,7 @@ print("-" * 60)
 # Erstelle eine Variable namens 'anzahl_tueren' mit einer ganzen Zahl (z. B. 4).
 # Gib die Variable danach mit print() aus.
 
-# Hier deinen Code schreiben:
+# 👇 DEIN CODE HIER (in die leere Zeile darunter tippen – OHNE # davor):
 
 
 
@@ -104,7 +116,7 @@ print("-" * 60)
 # Erstelle eine Variable namens 'kaffee_preis' mit einer Kommazahl (z. B. 3.50).
 # Gib die Variable danach mit print() aus.
 
-# Hier deinen Code schreiben:
+# 👇 DEIN CODE HIER (in die leere Zeile darunter tippen – OHNE # davor):
 
 
 
@@ -115,7 +127,7 @@ print("-" * 60)
 # Erstelle eine Variable namens 'koerpergroesse' mit einer Kommazahl in Metern (z. B. 1.82).
 # Gib die Variable danach mit print() aus.
 
-# Hier deinen Code schreiben:
+# 👇 DEIN CODE HIER (in die leere Zeile darunter tippen – OHNE # davor):
 
 
 
@@ -126,7 +138,7 @@ print("-" * 60)
 # Erstelle eine Variable namens 'ist_online' mit dem Wert True.
 # Gib die Variable danach mit print() aus.
 
-# Hier deinen Code schreiben:
+# 👇 DEIN CODE HIER (in die leere Zeile darunter tippen – OHNE # davor):
 
 
 
@@ -137,9 +149,8 @@ print("-" * 60)
 # Erstelle eine Variable namens 'hat_fehler' mit dem Wert False.
 # Gib die Variable danach mit print() aus.
 
-# Hier deinen Code schreiben:
+# 👇 DEIN CODE HIER (in die leere Zeile darunter tippen – OHNE # davor):
 
 
 
 print("=" * 60)
-
